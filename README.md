@@ -1,1 +1,2 @@
 # Trip-prices-model
+The project aims to create a model that will predict the price of a last-minute trip for two people. The model will be created based on data scraped from the websites of travel agencies ITAKA and Rainbow on July 13, 2025. The information obtained from these sites includes: destination, star rating - hotel rating, rating - average rating of trip, offer type (all inclusive, half board, etc.), price, date. The models that were trained in the project are: LinearRegression, RandomForestRegressor, XGBRegressor.
